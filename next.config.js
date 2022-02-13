@@ -1,5 +1,5 @@
 module.exports = {
   images: {
-    domains: ['theo-blog.herokuapp.com'],
+    domains: ['res.cloudinary.com'],
   },
 }
